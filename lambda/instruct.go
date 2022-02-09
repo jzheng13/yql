@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	grammar "github.com/caibirdme/yql/internal/lambda"
+	grammar "github.com/jzheng13/yql/internal/lambda"
 )
 
 type action uint8
